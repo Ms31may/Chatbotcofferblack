@@ -6,14 +6,14 @@
 
 
 Table of Contents
-2	Project Brief	2
-3	Idea	2
-4	Solution	3
-5	Tech Stack	3
-6	Calendar	3
-7	Methodology	3
-8	Meeting Recording	4
-9	Deliverable	4
+# 2	Project Brief	2
+# 3	Idea	2
+# 4	Solution	3
+# 5	Tech Stack	3
+# 6	Calendar	3
+# 7	Methodology	3
+# 8	Meeting Recording	4
+# 9	Deliverable	4
 
 
 
